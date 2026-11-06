@@ -1,0 +1,9 @@
+# Variáveis de ambiente / credenciais locais
+.env
+.env.*
+!.env.example
+
+# Build
+target/
+*.class
+*.war
